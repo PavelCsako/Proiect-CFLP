@@ -1,0 +1,14 @@
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\bin\Debug\net8.0\proiect_cruce.exe
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\bin\Debug\net8.0\proiect_cruce.deps.json
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\bin\Debug\net8.0\proiect_cruce.runtimeconfig.json
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\bin\Debug\net8.0\proiect_cruce.dll
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\bin\Debug\net8.0\proiect_cruce.pdb
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\obj\Debug\net8.0\proiect_cruce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\obj\Debug\net8.0\proiect_cruce.AssemblyInfoInputs.cache
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\obj\Debug\net8.0\proiect_cruce.AssemblyInfo.cs
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\obj\Debug\net8.0\proiect_cruce.csproj.CoreCompileInputs.cache
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\obj\Debug\net8.0\proiect_cruce.dll
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\obj\Debug\net8.0\refint\proiect_cruce.dll
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\obj\Debug\net8.0\proiect_cruce.pdb
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\obj\Debug\net8.0\proiect_cruce.genruntimeconfig.cache
+C:\Users\pavel\OneDrive\Desktop\facultate\an III\sem I\CFLP\laburi\proiect_cruce\obj\Debug\net8.0\ref\proiect_cruce.dll
